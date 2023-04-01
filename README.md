@@ -1,7 +1,7 @@
 # The Economist
 Weekly updates The Economist
 
-## [Mar. 25th 2023 已更新](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20Economist-2023.3.25.pdf)
+## [Apr. 1st 2023 已更新](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20Economist-2023.4.1.pdf)
 
 ### 加个**星标**呗~
 ### Give me a **Star** if you like~
