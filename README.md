@@ -1,9 +1,7 @@
 # The Economist
 Weekly updates The Economist
 
-## [May 27th 2023 已更新/Updated](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20Economist-2023.5.27.pdf)
-
-## [June 3rd 2023 已更新/Updated](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20Economist-2023.6.3.pdf)
+## [June 17th 2023 已更新/Updated](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20Economist-2023.6.17.pdf)
 
 ## [The War In Ukraine 2023 已更新/Updated](https://github.com/ThomasSu1/The_Economist/blob/main/2023/The%20war%20in%20Ukraine.pdf)
 
